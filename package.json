@@ -34,7 +34,7 @@
 	"devDependencies": {
 		"coffee-script": "~1.4.0"
 	},
-	"main": "./out/marked.plugin.js",
+	"main": "./src/marked.plugin.coffee",
 	"scripts": {
 		"test": "node ./out/marked.test.js"
 	}
